@@ -1,0 +1,127 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.top-section{
+    background-image: url(images/COFFEE\ \(1\).png);
+    background-position: center;
+}
+.navbar{
+    background-color: #F3C7B4;
+}
+.navbar-nav{
+    margin-left: auto;
+    margin-right: auto;
+}
+.nav-link{
+    margin: 0 10px;
+}
+.logo{
+    margin: 0 3rem;
+    font-weight: bolder;
+}
+.coffee{
+    height: 400px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.care-heading-btn{
+    background-color: #15A371;
+    border: none;
+    padding: 5px 50px;
+    color: white;
+    margin-top: -10px;
+}
+.our-coffee-section{
+    background-image: url(images/Untitled\ design.png);
+}
+.our-coffee-text-div{
+    max-width: 400px;
+    height: 500px;
+    color: white;
+}
+.inner-div{
+    margin-top: 100px;
+    padding-top: 50px;
+    margin-left: 50px;
+    width: 400px;
+}
+.ethics-section{
+    background-color: #FFD03F;
+    height: 400px;
+    padding: 20px;
+}
+.coffee-bean-img{
+    max-height: 300px;
+    margin-top: -7rem;
+}
+.card{
+    background-position: center;
+    background-size: cover;
+    color: white;
+    height: 350px;
+}
+.card-text{
+    padding: 30px;
+    text-align: center;
+    margin-top: 70px;
+}
+.quick-bites{
+    background-image: url(images/Group\ 81@1X.png);
+}
+.meals{
+    background-image:url(images/Rectangle\ 25@1X.png);
+}
+.share{
+    background-image: url(images/Group\ 83@1X.png);
+}
+.drinks{
+    background-image: url(images/Rectangle\ 28@1X.png);
+}
+.children{
+    background-image: url(images/Group\ 89@1X.png);
+}
+.cake{
+    background-image: url(images/Rectangle\ 34@1X.png);
+}
+.card button{
+    border: 1px solid white;
+    background: none;
+    color: white;
+    padding: 3px 20px;
+}
+.quick-bites-section{
+    background-color: #FFE0BC;
+}
+.price{
+    float: right;
+}
+.order-button{
+    border: none;
+    margin-top: 20px;
+    background:#15A371;
+    padding: 8px 100px;
+    color: white;
+    margin-bottom: 30px;
+}
+.gallery-section{
+    background-color: #372F2D;
+    padding: 100px 0;
+}
+.gallery{
+    width: 50%;
+    margin: 0 auto;
+    border: 5px solid white;
+}
+.map-section{
+    background-color: #F3C7B4;
+    height: 300px;
+}
+footer{
+    background-color:#372F2D ;
+    height: 50px;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 10px;
+}
