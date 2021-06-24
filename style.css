@@ -48,7 +48,7 @@ body{
 }
 .ethics-section{
     background-color: #FFD03F;
-    height: 400px;
+    height: 500px;
     padding: 20px;
 }
 .coffee-bean-img{
@@ -59,7 +59,7 @@ body{
     background-position: center;
     background-size: cover;
     color: white;
-    height: 350px;
+    min-height: 350px;
 }
 .card-text{
     padding: 30px;
