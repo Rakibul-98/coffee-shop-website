@@ -16,9 +16,30 @@ body{
 .nav-link{
     margin: 0 10px;
 }
+.nav-link:hover{
+    box-shadow: 2px 2px 5px rgb(248, 120, 141);
+    font-weight: bold;
+}
 .logo{
     margin: 0 3rem;
     font-weight: bolder;
+}
+.logo-collapse{
+    text-align: center;
+}
+.logo-collapse a{
+    text-decoration: none;
+    font-weight: bolder;
+    color: rgb(75, 75, 75);
+}
+@media (max-width:991px) {
+    .logo-collapse{
+        margin-top: 50px;
+        font-size: 30px;
+    }
+    .logo{
+        margin: 0 0 0 10px;
+    }
 }
 .coffee{
     height: 400px;
@@ -28,27 +49,29 @@ body{
 .care-heading-btn{
     background-color: #15A371;
     border: none;
-    padding: 5px 50px;
+    padding: 5px 10px;
     color: white;
     margin-top: -10px;
+}
+.care-heading-btn:hover{
+    box-shadow: 5px 5px 10px #696b6b;
+    font-weight: bold;
 }
 .our-coffee-section{
     background-image: url(images/Untitled\ design.png);
 }
 .our-coffee-text-div{
     max-width: 400px;
-    height: 500px;
+    min-height: 500px;
     color: white;
 }
 .inner-div{
-    margin-top: 100px;
     padding-top: 50px;
-    margin-left: 50px;
-    width: 400px;
+    max-width: 400px;
 }
 .ethics-section{
     background-color: #FFD03F;
-    height: 500px;
+    min-height: 500px;
     padding: 20px;
 }
 .coffee-bean-img{
@@ -90,6 +113,11 @@ body{
     color: white;
     padding: 3px 20px;
 }
+.card button:hover{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
 .quick-bites-section{
     background-color: #FFE0BC;
 }
@@ -104,6 +132,10 @@ body{
     color: white;
     margin-bottom: 30px;
 }
+.order-button:hover{
+    box-shadow: 5px 5px 10px #696b6b;
+    font-weight: bold;
+}
 .gallery-section{
     background-color: #372F2D;
     padding: 100px 0;
@@ -115,7 +147,35 @@ body{
 }
 .map-section{
     background-color: #F3C7B4;
-    height: 300px;
+    max-width: 100%;
+}
+.map-div{
+    width: 50%;
+    margin: 0 auto;
+    padding: 100px 0;
+    min-height: 450px;
+}
+.address-div{
+    background-color: #72C7A8;
+    color: white;
+    height:450px ;
+    margin-bottom: 20px;
+}
+.visit-btn{
+    border: 1px solid white;
+    background: none;
+    color: white;
+    padding: 3px 20px;
+}
+.visit-btn:hover{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+.map{
+    margin-left: -12px;
+    min-height: 450px;
+    min-width: 265px;
 }
 footer{
     background-color:#372F2D ;
@@ -124,4 +184,9 @@ footer{
     text-align: center;
     padding: 10px;
     font-size: 10px;
+}
+footer a:hover{
+    color: rgb(248, 120, 141);
+    font-size: 18px;
+    text-decoration: none;
 }
