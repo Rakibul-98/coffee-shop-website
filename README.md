@@ -1,38 +1,55 @@
-# Coffee Shop
 
-This is an UX design of a coffee shop.
+# Coffee Shop (HTML+CSS)
 
-## Core Features
+This is a user interface (UI) design for a coffee shop website. The design is built with plain HTML and CSS. 
+
+
+
+## Features
 
 - Plain HTML,CSS
+
 - Bootstrap css library
+
 - Responsive Design
 
-## Used Technologies
-
-- HTML, 
-- CSS,
-- Bootstrap,
-- Netlify,
+## 🛠 Technologies
+HTML 5, CSS 3, Bootstrap, Netlify
 
 
-## Live link
+## Demo
 
+Live Link: 
 https://coffee-shop-0-by-rakibul.netlify.app/
+## Screenshots
 
-## 🚀 About Me
-I'm a professional full stack developer. I have a degree on full-stack web development. I am currently studying in Computer Science and Engineering (CSE). 
+### Home page
+![SS 1](https://i.ibb.co/0VgYTcC/ss.png)
 
-I am proficient in front-end technologies such as HTML, CSS, JavaScript, and front-end framework as React. 
+    
+## Run Locally
 
-I can create pixel-perfect designs that are both aesthetically pleasing and functional. In addition, I am experienced in using version control tools like Git and GitHub, and I am comfortable working in collaborative environments with other developers and designers. 
+Clone the project
 
-I have also expertise in back-end development language Java and authentication system Firebase. I am also experienced in database management using MySQL, and MongoDB.
+```bash
+  https://github.com/Rakibul-98/coffee-shop-website.git
+```
 
-Moreover, I have excellent problem-solving skills and I can work collaboratively with designers, project managers, and other developers. 
+Go to the project directory
 
-I am keep up with the latest web development trends and constantly learning new technologies to improve my skills. I am passionate about performance optimization and know how to optimize web pages for speed and performance. 
+```bash
+  cd coffee-shop-website
+```
 
-I have a strong foundation in web development technologies and I can work closely with designers and other developers to create high-quality web applications.
+Start the live server
 
+
+## Author
+
+- [@Rakibul Hasan](https://github.com/Rakibul-98)
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-rakibul.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakibul-98/)
 
